@@ -1,0 +1,48 @@
+.bodyMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+.divMain{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    width: 40%;
+    height: 200px;
+    align-items: center;
+}
+.divRed{
+    width: 25%;
+}
+.divR1{
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 10px;
+    background-color: yellow;
+}
+.divR3{
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 10px;
+    background-color: yellow;
+}
+.divL2{
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 10px;
+    background-color: yellow;
+}
+.divL4{
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 10px;
+    background-color: yellow;
+}
+.buttons{
+    width: 10%;
+    height: 35px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 10px;
+}

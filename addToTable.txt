@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <input id="inputName" dir="rtl" class="inputs" type="text" value="mamad">
+    <br>
+    <input style="margin: 20px;" class="inputs" type="text" value="mamad">
+    <br>
+    <input class="inputs" type="text" value="mamad">
+    <br>
+    <input class="inputs" type="text" value="mamad">
+    <br>
+    <button>Add</button>
+    <br>
+
+    <table id="table1">
+        <tr>
+        <th>*Name*</th>
+        <th>*lastName*</th>
+        <th>*Age*</th>
+        <th>*Heighy*</th>
+        </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td>
+        </table>
+    
+
+</body>
+
+</html>

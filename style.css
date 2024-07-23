@@ -1,0 +1,15 @@
+input {
+    color: red;
+    margin-bottom: 10px;
+    padding: 22px;
+}
+.inputs{
+    color: red;
+    background-color: black;
+    position: absolute;
+    right: 300px;
+    width: 200px;
+    height: 35px;
+    border: 2px solid green;
+    margin: 20px;
+}

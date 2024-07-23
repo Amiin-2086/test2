@@ -1,0 +1,23 @@
+.divMain{
+    background-color: red;
+    width: 100%;
+}
+
+.divRed{
+    width: 60%;
+}
+
+.divR{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    background-color: yellow;
+}
+
+.buttons{
+    width: 10%;
+    height: 35px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 10px;
+}

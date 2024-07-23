@@ -1,0 +1,17 @@
+.bodyMain{
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+}
+.divMain{
+    display: flex;
+    justify-content: center;/*قرار گیر ایتم ها در وسط تگ*/
+    justify-content: space-around;/*برای فاصله بین عکس ها هنگام تغییر سایز*/
+    flex-wrap: wrap;/*هنگامی که صفحه کوچکتر میشور ایتم ها در سطر بعد بروند*/
+    align-items: stretch;
+    background-color: darkcyan;
+    border: 10px solid aquamarine;
+}
+.images{
+    border: 5px solid #555;
+}
